@@ -115,7 +115,7 @@
   top: 50% !important;
   box-shadow: 0px 8px 20px rgba(0, 0, 0, .45) !important;
   padding: 10px 10px 18px 10px !important;
-  background-color: #263238 !important; /* Material Theme Ocean background */
+  background-color: #0f111a !important; /* Material Theme Ocean background */
   backdrop-filter: blur(3px) !important;
   border-radius: 20px !important;
 }
